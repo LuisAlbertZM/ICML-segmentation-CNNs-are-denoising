@@ -1,3 +1,20 @@
 This code replicates the results of the paper "Segmentation CNNs are denoising models".
-The dataset could not be added to this reporsitory due to the large file size. More 
-information of the dataset will be added shortly.
+
+
+The toy dataset for the experiments in the paperis based on the BraTS 2021 challenge, which
+can be download at http://braintumorsegmentation.org/ and cited with the references below.
+
+[1] U.Baid, et al., "The RSNA-ASNR-MICCAI BraTS 2021 Benchmark on Brain Tumor Segmentation
+  and Radiogenomic Classification", arXiv:2107.02314, 2021(opens in a new window).
+[2] B. H. Menze, A. Jakab, S. Bauer, J. Kalpathy-Cramer, K. Farahani, J. Kirby, et al.
+  "The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)", IEEE Transactions on
+  Medical Imaging 34(10), 1993-2024 (2015) DOI: 10.1109/TMI.2014.2377694 (opens in a new window)
+[3] S. Bakas, H. Akbari, A. Sotiras, M. Bilello, M. Rozycki, J.S. Kirby, et al., "Advancing
+  The Cancer Genome Atlas glioma MRI collections with expert segmentation labels and radiomic
+  features", Nature Scientific Data, 4:170117 (2017) DOI: 10.1038/sdata.2017.117
+
+
+The referred dataset has been pre-processed according to the specifications in the paper. 
+Due to the large filesize, the pre-processed dataset could not be added to this reporsitory.
+As a workaround, the dataset can be downloaded at
+* https://drive.google.com/file/d/1QGluZ3MszzpJyvXxIIAACbKOkPjPNI8y/view?usp=drive_link.
